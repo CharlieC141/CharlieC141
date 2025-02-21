@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CharlieC141/CharlieC141/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/CharlieC141/CharlieC141/output/snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuk.pinterest.com%2Fpin%2Fwitcher-logo-geralt-of-rivia-the-white-wolf-digital-download-instant-download-svg-dxf-eps-png-files-included-etsy-canada-in-2024--1019643171877252835%2F&psig=AOvVaw1F2W2ZT4pfaT-ahlwmAN5K&ust=1740213438555000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjgiLKu1IsDFQAAAAAdAAAAABAE)" alt="Snake animation" />
 
 ###
 
