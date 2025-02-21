@@ -1,4 +1,4 @@
-  <img src="https://i.pinimg.com/736x/73/e3/2d/73e32d342e67413705d0bd943dffa58d.jpg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://i.pinimg.com/736x/73/e3/2d/73e32d342e67413705d0bd943dffa58d.jpg" width="250" height="250" alt="gmail logo"  />
 
 
 <div align="center">
