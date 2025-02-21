@@ -1,3 +1,6 @@
+  <img src="https://i.pinimg.com/736x/73/e3/2d/73e32d342e67413705d0bd943dffa58d.jpg" width="52" height="40" alt="gmail logo"  />
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
@@ -32,9 +35,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/CharlieC141/CharlieC141/output/snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuk.pinterest.com%2Fpin%2Fwitcher-logo-geralt-of-rivia-the-white-wolf-digital-download-instant-download-svg-dxf-eps-png-files-included-etsy-canada-in-2024--1019643171877252835%2F&psig=AOvVaw1F2W2ZT4pfaT-ahlwmAN5K&ust=1740213438555000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjgiLKu1IsDFQAAAAAdAAAAABAE)" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
