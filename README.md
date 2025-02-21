@@ -1,5 +1,3 @@
-  <img src="https://i.pinimg.com/736x/73/e3/2d/73e32d342e67413705d0bd943dffa58d.jpg" width="250" height="250" alt="gmail logo"  />
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
