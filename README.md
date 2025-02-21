@@ -1,3 +1,8 @@
+<br clear="both">
+
+<img align="left" height="400" src="https://yt3.googleusercontent.com/deEjT5Qr7pQGmkzerEXkt-1ieuASnrWlv-V8UT2pS1eKQ5k3nvUoAr950Y15EhTbw_x5_7QRKA=s160-c-k-c0x00ffffff-no-rj"  />
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
@@ -33,6 +38,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/CharlieC141/CharlieC141/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br clear="both">
 
